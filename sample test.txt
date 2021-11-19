@@ -1,0 +1,5 @@
+name = "mousumi"
+def myfunc():
+  print("my name is " +name)
+
+myfunc()
